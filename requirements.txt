@@ -1,0 +1,10 @@
+streamlit>=1.36
+streamlit-webrtc>=0.47
+streamlit-autorefresh>=1.0
+av>=12
+plotly>=5.22
+numpy>=1.26
+pandas>=2.0
+scipy>=1.12
+google-genai>=1.0
+python-dotenv>=1.0
